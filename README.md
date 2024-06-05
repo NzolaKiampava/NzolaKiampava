@@ -1,5 +1,5 @@
 <h1 align="left">Hi there👋, I'm Nzola Kiampava</h1>
-<p align="left">I am a <b>42 Luanda</b> and <b>ISPTEC</b> Student (studying Software Engineering), and a Software Developer and Machine Learning
+<p align="left">I am a <b><a href="https://42luanda.com">42 Luanda</a></b> and <b><a href="https://isptec.co.ao">ISPTEC</a></b> Student (studying Software Engineering), and a Software Developer and Machine Learning
 enthusiastic, blending code and data to create intelligent solutions. Tech enthusiast driven by innovation and a love for building the future.</p>
 
 <img align="right" alt="coding" width="370" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
