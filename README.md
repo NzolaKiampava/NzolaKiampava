@@ -32,6 +32,7 @@ enthusiastic, blending code and data to create intelligent solutions. Tech enthu
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nzolakiampava&" alt="nzolakiampava" /></p>
 
+<!--
 ### 42 School Projects
 <div align="center">
 
@@ -42,7 +43,7 @@ enthusiastic, blending code and data to create intelligent solutions. Tech enthu
 <a href="https://github.com/NzolaKiampava/MiniTalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
 <a href="https://github.com/NzolaKiampava/fract-ol">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
 </div>
-
+-->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nzolakiampava"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nzolakiampava" /></a></p><br><br>
