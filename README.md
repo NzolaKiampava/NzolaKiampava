@@ -23,7 +23,7 @@ enthusiastic, blending code and data to create intelligent solutions. Tech enthu
 <a href="https://www.leetcode.com/nzolakiampava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nzolakiampava" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -46,15 +46,36 @@ enthusiastic, blending code and data to create intelligent solutions. Tech enthu
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+</p>
+
+<h3 align="left">Frameworks:</h3>
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -69,25 +90,12 @@ enthusiastic, blending code and data to create intelligent solutions. Tech enthu
   </a>
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nzolakiampava&show_icons=true&locale=en&layout=compact" alt="nzolakiampava" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nzolakiampava&show_icons=true&locale=en" alt="nzolakiampava" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nzolakiampava&" alt="nzolakiampava" /></p>
 
-<!--
-### 42 School Projects
-<div align="center">
-
-<a href="https://github.com/NzolaKiampava/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/NzolaKiampava/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/NzolaKiampava/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
-<a href="https://github.com/NzolaKiampava/Born2beroot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
-<a href="https://github.com/NzolaKiampava/MiniTalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
-<a href="https://github.com/NzolaKiampava/fract-ol">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
-</div>
--->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nzolakiampava"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nzolakiampava" /></a></p><br><br>
