@@ -24,7 +24,7 @@ enthusiastic, blending code and data to create intelligent solutions. Tech enthu
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,bash,py,nodejs,dotnet,php,flutter,js,ts,react,linux,git,kubernetes,docker,mysql,mongodb,firebase,latex" />
   </a>
