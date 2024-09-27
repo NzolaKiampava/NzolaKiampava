@@ -2,7 +2,7 @@
 <p align="left">I am a <b><a href="https://42luanda.com">42 Luanda</a></b> and <b><a href="https://www.isptec.co.ao">ISPTEC</a></b> Student (studying Software Engineering & Computer Engineering), and a Software Developer and Machine Learning
 enthusiastic, blending code and data to create intelligent solutions. Tech enthusiast driven by innovation and a love for building the future.</p>
 
-<img align="right" alt="coding" width="370" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="coding" width="370" src="coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzolakiampava&label=Profile%20views&color=0e75b6&style=flat" alt="nzolakiampava" /> </p>
 
